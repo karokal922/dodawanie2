@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world!");
     }
     public int added(int a, int b){
-        return a*b;
+        return a+b;
     }
 }
